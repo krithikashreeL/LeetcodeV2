@@ -15,12 +15,12 @@ function ladderLength(beginWord: string, endWord: string, wordList: string[]): n
     let head = 0
     let seen = new Set()
 
-    while (queue.length > 0) {
-        let [currentWord, count] = queue.shift()!
+    while (queue.length > head) {
+        let [currentWord, count] = queue[head]
         if (currentWord == endWord) {
             return count
         }
-        // head += 1
+        head += 1
 
 
         for (const word of set) {
