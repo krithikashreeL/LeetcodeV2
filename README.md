@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
