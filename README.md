@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
