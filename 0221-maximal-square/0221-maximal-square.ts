@@ -7,7 +7,7 @@ function maximalSquare(matrix: string[][]): number {
     for (let i = 0; i < m; i++) {
         dp.push(new Array(n).fill(0))
     }
-    console.log(dp)
+    // console.log(dp)
 
     for (let i = m - 1; i >= 0; i--) {
         for (let j = n - 1; j >= 0; j--) {
