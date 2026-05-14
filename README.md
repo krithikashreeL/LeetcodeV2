@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
