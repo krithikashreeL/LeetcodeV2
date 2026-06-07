@@ -1,39 +1,28 @@
 function maximumSaleItems(items: number[][], budget: number): number {
-    const n = items.length;
-
-    const bonus = new Array(n).fill(0);
+    let n = items.length
+    let bonus = new Array(n).fill(0)
 
     for (let i = 0; i < n; i++) {
-        const f = items[i][0];
-
+        let d = items[i][0]
         for (let j = 0; j < n; j++) {
-            if (i !== j && items[j][0] % f === 0) {
-                bonus[i]++;
+            let n = items[j][0]
+            if (i !== j && n % d == 0) {
+                bonus[i] += 1
             }
         }
     }
 
-    const dp = new Array(budget + 1).fill(0);
+    let dp = new Array(budget + 1).fill(0)
 
-    for (let i = 0; i < n; i++) {
-        const price = items[i][1];
-
-        // First copy (0/1 knapsack)
-        for (let b = budget; b >= price; b--) {
-            dp[b] = Math.max(
-                dp[b],
-                dp[b - price] + 1 + bonus[i]
-            );
+    for(let i =0; i < n; i ++){
+        let price = items[i][1]
+        for(let j = budget; j >= price; j--){
+            dp[j] = Math.max(dp[j] , dp[j - price] + 1 + bonus[i])
         }
 
-        // Extra copies (unbounded knapsack)
-        for (let b = price; b <= budget; b++) {
-            dp[b] = Math.max(
-                dp[b],
-                dp[b - price] + 1
-            );
+        for(let j = price; j <= budget; j++){
+            dp[j] = Math.max(dp[j] , dp[j - price] + 1)
         }
     }
-
-    return dp[budget];
-}
+    return dp[budget]
+};
