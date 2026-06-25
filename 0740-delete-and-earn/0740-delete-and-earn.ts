@@ -14,6 +14,6 @@ function deleteAndEarn(nums: number[]): number {
         skipPrev = takePrev
         takePrev = currentScore
     }
-    console.log(dp)
+    // console.log(dp)
     return dp[max]
 };
