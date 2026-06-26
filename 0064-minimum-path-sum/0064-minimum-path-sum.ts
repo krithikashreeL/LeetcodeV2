@@ -23,7 +23,7 @@ function minPathSum(grid: number[][]): number {
             }
 
             dp[i][j] = current + localScore
-            console.log(current, top, left, i, j, dp[i][j])
+            // console.log(current, top, left, i, j, dp[i][j])
         }
     }
     console.log(dp)
