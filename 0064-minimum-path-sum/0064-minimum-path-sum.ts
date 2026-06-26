@@ -26,7 +26,7 @@ function minPathSum(grid: number[][]): number {
             // console.log(current, top, left, i, j, dp[i][j])
         }
     }
-    console.log(dp)
+    // console.log(dp)
 
     return dp[m - 1][n - 1]
 };
