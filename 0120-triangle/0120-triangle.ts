@@ -12,7 +12,7 @@ function minimumTotal(triangle: number[][]): number {
         }
         
     }
-    console.log(triangle)
+    // console.log(triangle)
 
     return triangle[0][0]
 };
