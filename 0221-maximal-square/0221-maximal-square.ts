@@ -24,7 +24,7 @@ function maximalSquare(matrix: string[][]): number {
         }
     }
 
-    console.log(dp)
+    // console.log(dp)
 
     return max * max
 };
