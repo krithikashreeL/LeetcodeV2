@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0064-minimum-path-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
 ## Breadth-First Search
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Data Stream
