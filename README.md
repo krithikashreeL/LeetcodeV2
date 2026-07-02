@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
 ## Divide and Conquer
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
@@ -170,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
