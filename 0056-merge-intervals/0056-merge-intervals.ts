@@ -16,6 +16,6 @@ function merge(intervals: number[][]): number[][] {
     }
     results.push([start,end])
 
-    console.log(results)
+    // console.log(results)
     return results
 };
