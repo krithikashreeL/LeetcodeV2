@@ -32,7 +32,7 @@ function restoreIpAddresses(s: string): string[] {
     }
 
     dfs([], 0)
-    console.log(results)
+    // console.log(results)
     return Array.from(results)
 };
 
