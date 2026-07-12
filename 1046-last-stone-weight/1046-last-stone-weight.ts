@@ -53,7 +53,7 @@ function lastStoneWeight(stones: number[]): number {
             stones.pop()
         }
         stones = maxHeap(0, stones)
-        console.log(stones, first,second)
+        // console.log(stones, first,second)
 
     }
     
