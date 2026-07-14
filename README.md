@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0206-reverse-linked-list) |
 ## Design
