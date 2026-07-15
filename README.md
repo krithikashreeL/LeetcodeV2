@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0120-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
