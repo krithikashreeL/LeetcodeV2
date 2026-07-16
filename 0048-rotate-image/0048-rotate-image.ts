@@ -10,19 +10,19 @@ function rotate(matrix: number[][]): void {
         }
     }
 
-    let seen = new Set()
+    // let seen = new Set()
     for (let i = 0; i < n; i++) {
-        for (let j = 0; j < n; j++) {
-            let key1 = String(i) + '|' + String(j)
-            let key2 = String(j) + '|' + String(i)
-            if (!seen.has(key1) && !seen.has(key2)) {
+        for (let j = i; j < n; j++) {
+            // let key1 = String(i) + '|' + String(j)
+            // let key2 = String(j) + '|' + String(i)
+            // if (!seen.has(key1) && !seen.has(key2)) {
                 // console.log(matrix[i][j], matrix[j][i])
-                seen.add(key1)
-                seen.add(key2)
+                // seen.add(key1)
+                // seen.add(key2)
                 if (i !== j) {
                     [matrix[i][j], matrix[j][i]] = [matrix[j][i], matrix[i][j]]
                 }
-            }
+            // }
         }
     }
 };
