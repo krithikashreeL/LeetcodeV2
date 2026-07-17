@@ -6,7 +6,7 @@ function generateParenthesis(n: number): string[] {
     function dfs(str, index, close) {
         if (str.length == n * 2 ) {
             if(index == close){
-            console.log(str)
+            // console.log(str)
             results.push(str)
             }
             return
