@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0093-restore-ip-addresses) |
 ## Array
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0063-unique-paths-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
