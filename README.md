@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 | [1046-last-stone-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1046-last-stone-weight) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
+| [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
+| [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
+| [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 <!---LeetCode Topics End-->
