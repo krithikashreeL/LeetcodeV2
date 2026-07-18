@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0300-longest-increasing-subsequence) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
