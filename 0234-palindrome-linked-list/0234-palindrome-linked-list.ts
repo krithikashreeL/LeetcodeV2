@@ -12,19 +12,28 @@
 
 function isPalindrome(head: ListNode | null): boolean {
     
-    let str = ''
+    let stack = []
+    let slow = head
+    let fast = head
 
-    let ptr = head
-
-    while(ptr !== null){
-        let val = ptr.val
-        str += String(val)
-        ptr = ptr.next
+    while(fast !== null && fast.next !== null ){
+        let val = slow.val
+        stack.push(val)
+        slow = slow.next
+        fast = fast.next.next
+    }
+    console.log(stack,slow)
+    if (fast !== null) {
+        slow = slow!.next;
+    }
+    while(slow !== null){
+        let val = slow.val
+        let top = stack.pop()!
+        if(val !== top){
+            return false
+        }
+        slow = slow.next
     }
 
-
-    return str === str.split('').reverse().join('')
-   
+    return true
 };
-
-
