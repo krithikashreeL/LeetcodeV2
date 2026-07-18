@@ -1,23 +1,27 @@
 class MinStack {
 
     public min
-    public stack:number[];
+    public stack: number[];
+    public minStack: number[]
     constructor() {
         this.stack = []
         this.min = Infinity
+        this.minStack = []
     }
 
     push(value: number): void {
         this.stack.push(value)
-        if (value < this.min) {
+        if (value <= this.min) {
             this.min = value
+            this.minStack.push(value)
         }
     }
 
     pop(): void {
         let top = this.stack.pop()
-        if(top == this.min){
-            this.min = Math.min(...this.stack)
+        if (top == this.min) {
+            this.minStack.pop()
+            this.min = this.minStack.length > 0 ? this.minStack[this.minStack.length - 1] : Infinity
         }
     }
 
