@@ -9,7 +9,7 @@ function twoSum(nums: number[], target: number): number[] {
     // console.log(map)
     for (let i = 0; i < n; i++) {
         let diff =  target - nums[i]
-        console.log(nums[i],diff)
+        // console.log(nums[i],diff)
         if (map.has(diff)) {
 
             let index = map.get(diff)
