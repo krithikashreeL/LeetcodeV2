@@ -28,7 +28,7 @@ function topKFrequent(nums: number[], k: number): number[] {
             maxHeap(largest, arr)
         }
 
-        return
+        return arr
     }
 
     function heapify(arr) {
@@ -45,13 +45,14 @@ function topKFrequent(nums: number[], k: number): number[] {
 
 
     let max = []
+    array = heapify(array)
     while (k > 0 && array.length > 0) {
-        array = heapify(array)
         let top = array[0]
         max.push(top[0])
         array[0] = array[array.length - 1]
         array.pop()
         k-=1
+        array = maxHeap(0,array)
     }
     return max
 };
