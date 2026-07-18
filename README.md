@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
+| [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Data Stream
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
 ## Bucket Sort
 |  |
 | ------- |
