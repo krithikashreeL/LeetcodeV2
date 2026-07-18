@@ -22,7 +22,7 @@ function isPalindrome(head: ListNode | null): boolean {
         slow = slow.next
         fast = fast.next.next
     }
-    console.log(stack,slow)
+    // console.log(stack,slow)
     if (fast !== null) {
         slow = slow!.next;
     }
