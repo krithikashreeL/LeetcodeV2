@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 ## Doubly-Linked List
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
