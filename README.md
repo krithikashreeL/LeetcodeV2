@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0204-count-primes) |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
 | [1137-n-th-tribonacci-number](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
