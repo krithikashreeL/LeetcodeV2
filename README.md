@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0063-unique-paths-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
