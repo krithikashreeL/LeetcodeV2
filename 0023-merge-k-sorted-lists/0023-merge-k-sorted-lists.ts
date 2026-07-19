@@ -11,37 +11,29 @@
  */
 
 function mergeKLists(lists: Array<ListNode | null>): ListNode | null {
-    let result = new ListNode()
-    let head = result
-    let cHeads: ListNode[] = []
-    for (let i = 0; i < lists.length; i++) {
-        if (lists[i] !== null) {
-            cHeads.push(lists[i])
+    let resultHead = new ListNode(0)
+
+    let result = resultHead
+    
+
+    let valArray = []
+    for(let list of lists){
+
+        while(list !== null){
+            let val = list.val
+            list = list.next
+            valArray.push(val)
         }
     }
 
+    valArray.sort((a,b) => a - b)
 
-
-    while (cHeads.length > 0) {
-        let min = Infinity
-        let minIndex = -1
-        for (let i = 0; i < cHeads.length; i++) {
-            if (cHeads !== undefined && cHeads[i].val < min) {
-                min = cHeads[i].val
-                minIndex = i
-            }
-        }
-        
-        let minHead = cHeads[minIndex]
-        result.next = minHead
+    for(const val of valArray){
+        result.next = new ListNode(val)
         result = result.next
-        minHead = minHead.next
-        cHeads.splice(minIndex, 1);
-
-        if(minHead !== null){
-            cHeads.push(minHead)
-        }
     }
 
-    return head.next
+
+
+    return resultHead.next
 };
