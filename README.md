@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0120-triangle) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
