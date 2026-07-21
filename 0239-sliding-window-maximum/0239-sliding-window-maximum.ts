@@ -1,30 +1,22 @@
 function maxSlidingWindow(nums: number[], k: number): number[] {
-    let queue: number[] = []
-    let n = nums.length
-    let result: number[] = []
-    let lp = 0
-    let rp = 0
 
-    while (rp < n) {
-        // FIX 1: Changed `if` to `while` so it pops ALL smaller elements
-        // FIX 2: Indexed into `nums[queue[...]]` instead of `nums[...]`
-        while (queue.length > 0 && nums[queue[queue.length - 1]] < nums[rp]) {
-            queue.pop()
+    let result = []
+    let left = 0
+    let q = []
+    for (let right = 0; right < nums.length; right++) {
+        while (q.length > 0 && nums[q[q.length - 1]] < nums[right]) {
+            q.pop()
         }
-        queue.push(rp)
-
-        // Drop front of queue if it falls outside the left window boundary
-        if (queue[0] < lp) {
-            queue.shift()!
+        q.push(right)
+        
+        if (q[0] < left) {
+            q.shift()
         }
 
-        // Record max once window reaches size k
-        if (rp >= k - 1) {
-            result.push(nums[queue[0]]);
-            lp++; // Slide left boundary
+        if(right >= k - 1){
+            result.push(nums[q[0]])
+            left += 1
         }
-
-        rp += 1
     }
 
     return result
