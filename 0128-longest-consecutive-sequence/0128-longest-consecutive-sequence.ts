@@ -11,7 +11,7 @@ function longestConsecutive(nums: number[]): number {
         while (set.has(start + 1)) {
             start += 1
         }
-        console.log(nums[i], start)
+        // console.log(nums[i], start)
         let diff = start - nums[i] + 1
         if (diff > 0) {
             i += diff - 1
