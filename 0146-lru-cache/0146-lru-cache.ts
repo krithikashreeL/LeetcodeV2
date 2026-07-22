@@ -1,30 +1,43 @@
 class LRUCache {
-    public map;
-    public n;
+
+    public seen: Set<number>;
+    public map: Map<number, number>;
+    public capacity;
     constructor(capacity: number) {
-        this.map = new Map<number,number>()
-        this.n = capacity
+        this.seen = new Set<number>()
+        this.map = new Map<number, number>()
+        this.capacity = capacity
     }
 
     get(key: number): number {
-        if(this.map.has(key)){
-            let val = this.map.get(key)
-            this.map.delete(key)
-            this.map.set(key,val)
-            return val
+        if (this.map.has(key)) {
+
+            if (this.seen.has(key)) {
+                this.seen.delete(key);
+            }
+            this.seen.add(key)
+            // console.log("after get", key, this.map, this.seen)
+            return this.map.get(key)
         }
+
+
         return -1
     }
 
     put(key: number, value: number): void {
-       
-        if(this.map.has(key)){
-            this.map.delete(key)
-        }else if(this.map.size >= this.n){
-            let top = this.map.keys().next().value
-            this.map.delete(top)
+        this.map.set(key, value)
+        if (this.seen.has(key)) {
+            this.seen.delete(key)
         }
-        this.map.set(key,value)
+        this.seen.add(key)
+        if (this.map.size > this.capacity) {
+            // console.log("before",this.map, this.seen)
+            let recent = Array.from(this.seen)[0]
+            this.seen.delete(recent)
+            this.map.delete(recent)
+            // console.log("after",this.map,this.seen,recent)
+        }
+        // console.log("after put", key, this.map, this.map.size, this.capacity)
     }
 }
 
