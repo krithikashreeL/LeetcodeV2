@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Recursion
 |  |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
