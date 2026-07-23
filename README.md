@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0412-fizz-buzz) |
+| [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
+| [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1200-minimum-absolute-difference) |
 ## Linked List
 |  |
