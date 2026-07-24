@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0053-maximum-subarray) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0063-unique-paths-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
 ## Bucket Sort
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
