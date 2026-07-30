@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0412-fizz-buzz) |
 | [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
+| [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
