@@ -1,22 +1,31 @@
 function mincostTickets(days: number[], costs: number[]): number {
-    const travelDays = new Set(days);
-    const lastDay = days[days.length - 1];
-    const dp = new Array(lastDay + 1).fill(0);
+    const passes = [1, 7, 30];
+    const memo = new Map<number, number>();
 
-    for (let i = 1; i <= lastDay; i++) {
-        // If today isn't a travel day, cost remains same as yesterday
-        if (!travelDays.has(i)) {
-            dp[i] = dp[i - 1];
-            continue;
+    function dfs(i: number): number {
+        // Base case: processed all travel days
+        if (i >= days.length) return 0;
+
+        // Return cached result if we've already solved index i
+        if (memo.has(i)) return memo.get(i)!;
+
+        let minCost = Infinity;
+
+        for (let j = 0; j < 3; j++) {
+            let temp = i;
+
+            // Strictly LESS THAN (<) ensures correct pass duration
+            while (temp < days.length && days[temp] < days[i] + passes[j]) {
+                temp += 1;
+            }
+
+            const totalCost = costs[j] + dfs(temp);
+            minCost = Math.min(minCost, totalCost);
         }
 
-        // Calculate minimum cost using 1-day, 7-day, or 30-day pass
-        dp[i] = Math.min(
-            dp[i - 1] + costs[0],                           // 1-day pass
-            dp[Math.max(0, i - 7)] + costs[1],              // 7-day pass
-            dp[Math.max(0, i - 30)] + costs[2]              // 30-day pass
-        );
+        memo.set(i, minCost);
+        return minCost;
     }
 
-    return dp[lastDay];
+    return dfs(0);
 }
