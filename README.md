@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0983-minimum-cost-for-tickets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0322-coin-change) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0983-minimum-cost-for-tickets) |
@@ -375,4 +377,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
