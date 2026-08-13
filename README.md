@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0983-minimum-cost-for-tickets) |
 | [1046-last-stone-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1200-minimum-absolute-difference) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0347-top-k-frequent-elements) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3946-maximum-number-of-items-from-sale-i) |
