@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0516-longest-palindromic-subsequence) |
 | [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
