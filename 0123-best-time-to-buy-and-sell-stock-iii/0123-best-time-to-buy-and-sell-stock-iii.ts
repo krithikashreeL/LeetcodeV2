@@ -1,21 +1,27 @@
 function maxProfit(prices: number[]): number {
 
-    let buy1 = -prices[0]
-    let sell1 = 0
 
-    let buy2 = -prices[0]
-    let sell2 = 0
+    let n = prices.length
 
-    for (let i = 1; i < prices.length; i++) {
-
-        buy1 = Math.max(buy1, -prices[i])
-
-        sell1 = Math.max(sell1, buy1 + prices[i])
-
-        buy2 = Math.max(buy2, sell1 - prices[i])
-
-        sell2 = Math.max(sell2, buy2 + prices[i])
+    if (n === 0) {
+        return 0
     }
 
-    return sell2
-}
+
+    let buy1 = new Array(prices.length).fill(0)
+    let sell1 = new Array(prices.length).fill(0)
+    let buy2 = new Array(prices.length).fill(0)
+    let sell2 = new Array(prices.length).fill(0)
+
+    buy1[0] = -prices[0]
+    buy2[0] = -prices[0]
+
+    for (let i = 1; i < prices.length; i++) {
+        buy1[i] = Math.max(buy1[i - 1], -prices[i])
+        sell1[i] = Math.max(sell1[i - 1], buy1[i - 1] + prices[i])
+        buy2[i] = Math.max(buy2[i - 1], sell1[i - 1] - prices[i])
+        sell2[i] = Math.max(sell2[i - 1], buy2[i - 1] + prices[i])
+    }
+    
+   return sell2[prices.length - 1]
+};
