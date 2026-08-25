@@ -40,42 +40,33 @@ function longestSubarray(nums: number[], k: number): number {
         factors[i] = getFactors(nums[i])
     }
 
-    // Sliding window
-    const count = new Map<number, number>()
-
+    let maxLen = 0
+    let count = new Map<number, number>()
     let left = 0
     let distinct = 0
-    let maxLen = 0
-
     for (let right = 0; right < nums.length; right++) {
 
-        // Add right
-        for (const prime of factors[right]) {
-
-            if (!count.has(prime)) {
-                count.set(prime, 0)
-                distinct++
+        for (let factor of factors[right]) {
+            if (!count.has(factor)) {
+                count.set(factor, 1)
+                distinct += 1
+            } else {
+                count.set(factor, count.get(factor) + 1)
             }
-
-            count.set(prime, count.get(prime)! + 1)
         }
 
-        // Remove from left until valid
         while (distinct > k) {
-
-            for (const prime of factors[left]) {
-
-                count.set(prime, count.get(prime)! - 1)
-
-                if (count.get(prime) === 0) {
-                    count.delete(prime)
-                    distinct--
+            for (const factor of factors[left]) {
+                let f = count.get(factor)
+                if (f == 1) {
+                    count.delete(factor)
+                    distinct -= 1
+                } else {
+                    count.set(factor, f - 1)
                 }
             }
-
-            left++
+            left += 1
         }
-
         maxLen = Math.max(maxLen, right - left + 1)
     }
 
