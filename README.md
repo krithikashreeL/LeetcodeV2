@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0377-combination-sum-iv) |
+| [0474-ones-and-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0377-combination-sum-iv) |
+| [0474-ones-and-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0646-maximum-length-of-pair-chain) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0412-fizz-buzz) |
+| [0474-ones-and-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0516-longest-palindromic-subsequence) |
 | [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
@@ -387,11 +390,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0279-perfect-squares) |
+| [0474-ones-and-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0474-ones-and-zeroes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Longest Increasing Subsequence
 |  |
