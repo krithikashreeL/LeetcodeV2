@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
 ## Complete Knapsack
