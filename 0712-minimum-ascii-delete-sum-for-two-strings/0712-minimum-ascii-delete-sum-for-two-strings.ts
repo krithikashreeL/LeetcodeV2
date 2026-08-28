@@ -1,61 +1,41 @@
+
 function minimumDeleteSum(s1: string, s2: string): number {
-    let memo = new Map<string, number>()
 
+    let l1 = s1.length
+    let l2 = s2.length
 
-    function dfs(index1, index2,) {
+    let dp: number[][] = Array.from(
+        { length: l1 + 1 },
+        () => new Array(l2 + 1).fill(0)
+    )
 
-        if (index1 == s1.length && index2 == s2.length) {
-            return 0
-        }
-
-
-        if (index1 >= s1.length) {
-            let c = 0
-            for (let i = index2; i < s2.length; i++) {
-                let char = s2.charCodeAt(i)
-                c += char
-            }
-            return c
-        }
-
-        if (index2 >= s2.length) {
-            let c = 0
-            for (let i = index1; i < s1.length; i++) {
-                let char = s1.charCodeAt(i)
-                c += char
-            }
-            return c
-        }
-
-        if (s1[index1] === s2[index2]) {
-            return dfs(index1 + 1, index2 + 1)
-        }
-
-        let key = index1 + '|' + index2
-        if (memo.has(key)) {
-            return memo.get(key)
-        }
-
-      
-        let ascii1 = s1.charCodeAt(index1)
-
-      
-        let ascii2 = s2.charCodeAt(index2)
-
-        // delete w1
-        let deleteAtS1 = ascii1 + dfs(index1 + 1, index2)
-        // delete w2
-        let deleteAtS2 = ascii2 + dfs(index1, index2 + 1)
-
-        let val = Math.min(deleteAtS1, deleteAtS2)
-        memo.set(key, val)
-        return val
-
+    // s2 is empty -> delete everything from s1
+    for (let i = 1; i <= l1; i++) {
+        dp[i][0] = dp[i - 1][0] + s1.charCodeAt(i - 1)
     }
-    
 
+    // s1 is empty -> delete everything from s2
+    for (let j = 1; j <= l2; j++) {
+        dp[0][j] = dp[0][j - 1] + s2.charCodeAt(j - 1)
+    }
 
-    return dfs(0,0)
+    for (let i = 1; i <= l1; i++) {
+        for (let j = 1; j <= l2; j++) {
 
+            if (s1[i - 1] === s2[j - 1]) {
+                dp[i][j] = dp[i - 1][j - 1]
+            } else {
+                let deleteS1 =
+                    s1.charCodeAt(i - 1) + dp[i - 1][j]
 
-};
+                let deleteS2 =
+                    s2.charCodeAt(j - 1) + dp[i][j - 1]
+
+                dp[i][j] = Math.min(deleteS1, deleteS2)
+            }
+        }
+    }
+
+    return dp[l1][l2]
+}
+
