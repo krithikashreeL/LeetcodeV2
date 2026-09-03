@@ -1,43 +1,18 @@
-function countGoodStrings(
-    low: number,
-    high: number,
-    zero: number,
-    one: number
-): number {
+function countGoodStrings(low: number, high: number, zero: number, one: number): number {
+     let mod = 1000000007
 
-    const MOD = 1_000_000_007
-    const memo = new Array(high + 1).fill(-1)
-
-    function dfs(length: number): number {
-
-        if (length > high) {
-            return 0
+    let dp = new Array(high + 1).fill(0)
+    let ans = 0
+    dp[0] = 1
+    for (let i = 1; i <= high; i++) {
+        dp[i] += i >= zero ? dp[i - zero] : 0
+        dp[i] += i >= one ? dp[i - one] : 0
+        dp[i] %= mod
+        if (i >= low) {
+            ans = (ans + dp[i]) % mod
         }
-
-        if (memo[length] !== -1) {
-            return memo[length]
-        }
-
-        let count = 0
-
-        if (length >= low) {
-            count = 1
-        }
-
-        if (length + zero <= high) {
-            count += dfs(length + zero)
-        }
-
-        if (length + one <= high) {
-            count += dfs(length + one)
-        }
-
-        count %= MOD
-
-        memo[length] = count
-
-        return count
     }
 
-    return dfs(0)
-}
+    // console.log(dp)
+    return ans
+};
