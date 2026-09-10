@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0310-minimum-height-trees) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0322-coin-change) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0310-minimum-height-trees) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Recursion
 |  |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0310-minimum-height-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
