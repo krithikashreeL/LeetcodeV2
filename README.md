@@ -119,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0412-fizz-buzz) |
@@ -446,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
