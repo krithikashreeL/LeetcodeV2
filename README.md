@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0300-longest-increasing-subsequence) |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
