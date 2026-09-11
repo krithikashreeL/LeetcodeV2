@@ -14,21 +14,30 @@
 
 function maxPathSum(root: TreeNode | null): number {
 
-    let maxSum = -Infinity
-    function findPath(node: TreeNode) {
-        if (!node) return 0
+    let memo = new Set()
+    let max = -Infinity
+    function dfs(node: TreeNode) {
+        if (node == null) {
+            return 0
+        }
 
-        const val = node.val
-
-
-        const left = Math.max(0, findPath(node.left))
-        const right = Math.max(0, findPath(node.right))
-        const currentSum = val + left + right
-        maxSum = Math.max(currentSum, maxSum)
-
-         return node.val + Math.max(left, right);
+        let current = node.val
+        let left = 0
+        if (node.left) {
+            left = Math.max(0,dfs(node.left))
+        }
+        let right = 0
+        if (node.right) {
+            right = Math.max(0,dfs(node.right))
+        }
+        let sum = current + left + right
+        // console.log(current, sum)
+        max = Math.max(max, sum)
+        return current + Math.max(left, right)
     }
-    findPath(root)
-    return maxSum
 
+    dfs(root)
+    // console.log(max)
+
+    return max
 };
