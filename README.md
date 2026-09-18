@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0412-fizz-buzz) |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
+| [0836-rectangle-overlap](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
@@ -458,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
