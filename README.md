@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0377-combination-sum-iv) |
+| [0436-find-right-interval](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0518-coin-change-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0300-longest-increasing-subsequence) |
+| [0436-find-right-interval](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
