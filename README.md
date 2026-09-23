@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Randomized
 |  |
 | ------- |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
 |  |
 | ------- |
