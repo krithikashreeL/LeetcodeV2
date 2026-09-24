@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0875-koko-eating-bananas) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
