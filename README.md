@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0875-koko-eating-bananas) |
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
