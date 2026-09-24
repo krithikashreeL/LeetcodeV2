@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0528-random-pick-with-weight) |
 | [0836-rectangle-overlap](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1137-n-th-tribonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
