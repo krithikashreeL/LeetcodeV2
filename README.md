@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
