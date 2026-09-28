@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0761-special-binary-string) |
 | [0981-time-based-key-value-store](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -482,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
