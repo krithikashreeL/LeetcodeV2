@@ -17,7 +17,7 @@ function evaluate(s: string, knowledge: string[][]): string {
                 key += stack.pop()
             }
             stack.pop()
-            console.log("key is", key)
+            // console.log("key is", key)
             let reverse = key.split('').reverse().join('')
             let val = map.has(reverse) ? map.get(reverse) : '?'
 
