@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2502-design-memory-allocator](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2502-design-memory-allocator) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2140-solving-questions-with-brainpower](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2140-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2466-count-ways-to-build-good-strings](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2466-count-ways-to-build-good-strings) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/krithikashreeL/LeetcodeV2/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krithikashreeL/LeetcodeV2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
@@ -494,4 +497,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krithikashreeL/LeetcodeV2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikashreeL/LeetcodeV2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
